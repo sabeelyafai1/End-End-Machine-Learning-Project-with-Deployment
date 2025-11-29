@@ -4,7 +4,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost==1.2.5
-xgboost==1.7.6
+catboost
+xgboost
 Flask
-#-e .
