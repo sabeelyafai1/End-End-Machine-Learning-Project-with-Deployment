@@ -1,9 +1,11 @@
+
+#-e .
 pandas
 numpy
 seaborn
 matplotlib
 scikit-learn
-catboost
-xgboost
+catboost==1.2.5
+xgboost==1.7.6
 Flask
 #-e .
